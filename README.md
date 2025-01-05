@@ -1,6 +1,7 @@
 #...........................................................
-# Project 2: Containerization of a Two-Tier Application using Docker, Docker Compose, and Image Scanning with Docker Scout
-
+ Containerization of a Two-Tier Application using Docker, Docker
+ Compose, and Image Scanning
+ with Docker Scout
 Tools Required:
 Docker: For creating and managing containers.
 Docker Compose: For defining and running multi-container Docker applications.
