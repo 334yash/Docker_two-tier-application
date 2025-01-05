@@ -12,7 +12,7 @@ This project involves containerizing a two-tier application (such as a web appli
 This will give practical experience in containerization, orchestration, and security aspects of Dockerized applications.
 Code Repository:
 Repository Platform: GitHub
-Repository Link: https://github.com/rajnishkaushik5/two-tier-application-project2.git
+Repository Link: https://github.com/334yash/docker_two-tier-application.git
 Access Instructions: Clone the repository to your local machine using Git. Instructions on cloning a repository can be found on GitHub's help pages.
 Requirements:
 Functional Requirements:
